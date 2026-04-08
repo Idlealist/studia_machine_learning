@@ -23,3 +23,15 @@ Notebook: [link](./047Clustering_Exercises.ipynb)
 :white_check_mark: Exercise 3: Extend the Fisher's classifier
 
 Notebook: [link](./026_Exercises.ipynb)
+
+### Trees
+
+:white_check_mark: Exercise 1: Rewrite the CART method to use Gini index as shown in the lecture
+
+:white_check_mark: Exercise 2:  Use pydot do draw the tree for C4.5 example
+
+:white_check_mark: Exercise 3: Implement the minimum number of objects pruning method
+
+:white_check_mark: Exercise 4: Plot OC1 tree, but instead of elements id, print the feature id it was split by
+
+Notebook: [link](./055_Exercises.ipynb)
