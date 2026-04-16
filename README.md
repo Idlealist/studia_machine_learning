@@ -34,4 +34,12 @@ Notebook: [link](./026_Exercises.ipynb)
 
 :white_check_mark: Exercise 4: Plot OC1 tree, but instead of elements id, print the feature id it was split by
 
-Notebook: [link](./055_Exercises.ipynb)
+Notebook: [link](./055Decision_trees_Exercises.ipynb)
+
+### SVM
+
+:white_check_mark: Exercise 1: Polynomial kernel
+
+:white_check_mark: Exercise 2: Implement a multiclass C-SVM
+
+Notebook: [link](./065_SVM_Exercises.ipynb)
