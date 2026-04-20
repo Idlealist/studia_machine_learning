@@ -43,3 +43,12 @@ Notebook: [link](./055Decision_trees_Exercises.ipynb)
 :white_check_mark: Exercise 2: Implement a multiclass C-SVM
 
 Notebook: [link](./065_SVM_Exercises.ipynb)
+
+### Ensemble
+
+:white_check_mark: Exercise 1: Find the best three classifier in the stacking method
+
+:white_check_mark: Exercise 2: Use the boosting method and change the code to fullfill requirements:
+
+Notebook: [link](./075Ensemble_Exercises.ipynb)
+
