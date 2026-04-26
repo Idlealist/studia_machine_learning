@@ -52,3 +52,16 @@ Notebook: [link](./065_SVM_Exercises.ipynb)
 
 Notebook: [link](./075Ensemble_Exercises.ipynb)
 
+### NLP
+
+:white_check_mark: Exercise 1:  Build your own tokenizer
+
+:white_check_mark: Exercise 2: Get tags from Trump speech using NLTK
+
+:white_check_mark: Exercise 3: Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentencens. Use SpaCy.
+
+:white_check_mark: Exercise 4: Build your own Bag Of Words implementation using tokenizer created before 
+
+:white_check_mark: Exercise 5: Build a 5-gram model and clean up the results.
+
+Notebook: [link](./106_NLP_Exercises.ipynb)
